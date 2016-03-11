@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="SplashDemo.SplashDemo">
+  <uses-sdk android:minSdkVersion="17" android:targetSdkVersion="17" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="SplashDemo" android:name="mono.android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:label="SplashScreen1" android:noHistory="true" android:name="md5ad94ae9f4e02cc60387cee1ed051db1f.SplashScreen" />
+    <activity android:label="LoginScreen" android:name="md5ad94ae9f4e02cc60387cee1ed051db1f.LoginScreen" />
+    <activity android:label="Category" android:name="md5ad94ae9f4e02cc60387cee1ed051db1f.Category" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="SplashDemo.SplashDemo.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.SplashDemo.SplashDemo" />
+      </intent-filter>
+    </receiver>
+    <activity android:label="SplashScreen1" android:noHistory="true" android:name="splashdemo.splashdemo.TrialSplashScreen" android:theme="@style/Mono.Android.Theme.Splash">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+  </application>
+</manifest>

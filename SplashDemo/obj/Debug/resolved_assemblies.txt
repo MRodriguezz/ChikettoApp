@@ -1,0 +1,10 @@
+C:\Users\Cognits2015\Documents\Visual Studio 2015\Projects\SplashDemo\SplashDemo\obj\Debug\assemblies\SplashDemo.dll
+C:\Users\Cognits2015\Documents\Visual Studio 2015\Projects\SplashDemo\SplashDemo\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Cognits2015\Documents\Visual Studio 2015\Projects\SplashDemo\SplashDemo\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Cognits2015\Documents\Visual Studio 2015\Projects\SplashDemo\SplashDemo\obj\Debug\assemblies\System.Core.dll
+C:\Users\Cognits2015\Documents\Visual Studio 2015\Projects\SplashDemo\SplashDemo\obj\Debug\assemblies\System.dll
+C:\Users\Cognits2015\Documents\Visual Studio 2015\Projects\SplashDemo\SplashDemo\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Cognits2015\Documents\Visual Studio 2015\Projects\SplashDemo\SplashDemo\obj\Debug\assemblies\Xamarin.Android.Support.Percent.dll
+C:\Users\Cognits2015\Documents\Visual Studio 2015\Projects\SplashDemo\SplashDemo\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+C:\Users\Cognits2015\Documents\Visual Studio 2015\Projects\SplashDemo\SplashDemo\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Cognits2015\Documents\Visual Studio 2015\Projects\SplashDemo\SplashDemo\obj\Debug\assemblies\System.ServiceModel.Internals.dll

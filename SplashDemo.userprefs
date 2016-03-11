@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="SplashDemo\SplashDemo.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Q4G4TA1522602480" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SplashDemo\Resources\Resource.designer.cs">
+    <Files>
+      <File FileName="SplashDemo\Screens\SplashScreen.cs" Line="57" Column="1" />
+      <File FileName="SplashDemo\Screens\HomeScreen.cs" Line="27" Column="1" />
+      <File FileName="SplashDemo\Resources\Resource.designer.cs" Line="14" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SplashDemo AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

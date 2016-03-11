@@ -1,0 +1,3 @@
+<!--The slide_out_bottom file is the that contains the animations the wich are used for 
+to carry out the effect with wich shown in the view of the user, and for that this animation you can see 
+is called from the ´Category.cs´ file.--><!--These interpolators increase or decrease the rate of change in an animation.--><translate android:duration="1000" android:fromYDelta="0%" android:toYDelta="100%" android:interpolator="@android:anim/accelerate_interpolator" xmlns:android="http://schemas.android.com/apk/res/android" />
